@@ -5,6 +5,8 @@ Overview
 This project demonstrates the use of LangChain and Google Generative AI models to interact with PDF documents. Specifically, it allows users to extract information from a PDF file and answer  queries.
 
 
+This project harnesses the synergy of Python programming, Streamlit, PyPDF2, and LangChain integrated with Google Generative AI for advanced natural language processing (NLP). Focused on text mining and information retrieval, we utilize vector embeddings and FAISS for fast approximate nearest neighbors search, enhancing efficiency. API integration, managed through environment variables with dotenv, ensures secure access to Google API for seamless data extraction. Implementing text chunking, our project exemplifies version control in Git, facilitating collaborative development and precise management of code version
+
 
 Files Required
 app.py: Python script to interact with PDF files using LangChain and Google Generative AI models.
